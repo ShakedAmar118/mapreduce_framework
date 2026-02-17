@@ -1,0 +1,28 @@
+# IDEs
+.idea/
+.vscode/
+*.swp
+
+# Compilation Output (CMake & Make)
+cmake-build-debug/
+cmake-build-release/
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+Makefile.bak
+
+# Compiled Binaries & Objects
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
+# Zip/Tar files
+*.zip
+*.tar.gz
+*.rar
